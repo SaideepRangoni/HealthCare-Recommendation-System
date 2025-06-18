@@ -125,5 +125,5 @@ project/
 
 ## 👨‍⚕️ **Authors and Contributors**
 
-**Developed by:** *Perala Pranitha*  
+**Developed by:** *Saideep Rangoni*  
 If you find this useful or would like to contribute, feel free to fork the repo and submit pull requests.
